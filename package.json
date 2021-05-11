@@ -1,0 +1,17 @@
+{
+  "name": "sortbykey",
+  "version": "1.0.0",
+  "description": "Utils for sort array of objects by value in key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Array",
+    "Arraytools",
+    "sort"
+  ],
+  "author": "Makkoveev",
+  "license": "ISC"
+}
