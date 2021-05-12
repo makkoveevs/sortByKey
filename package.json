@@ -1,5 +1,5 @@
 {
-  "name": "sortbykey",
+  "name": "@makkoveev/sort-by-key",
   "version": "1.0.0",
   "description": "Util for sort array of objects by value in key",
   "main": "index.js",
@@ -13,5 +13,13 @@
     "sort"
   ],
   "author": "Makkoveev",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makkoveevs/sortByKey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makkoveevs/sortByKey/issues"
+  },
+  "homepage": "https://github.com/makkoveevs/sortByKey#readme"
 }
